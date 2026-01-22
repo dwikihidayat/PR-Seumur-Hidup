@@ -1,0 +1,26 @@
+sedikit banyak catatan magang
+
+Nik: 12257945
+pass: 123
+
+kpst
+pasal1
+
+Proses Kerja
+cek keterangan dan kategori di konfirmasi belum ap
+
+batal pesan -> indikatornya hapus 1
+langsung minta tolong buatkan surat
+
+kurang barang -> 
+cocokan data dari oldist dan data minta dari pak windu kemudian di analisa
+
+Tinggal Klik AP ->
+Minta keterangan klik AP tanggal berap
+
+Belum Siplah ->
+siplah
+Ganti Kode ->
+cek yang penyiapan wh sudah 100% dan batal, ketika penyiapan 0 % kan berarti belum pesan
+
+im done, im sory if i always make mistake
