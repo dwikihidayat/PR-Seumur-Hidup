@@ -1,0 +1,33 @@
+Agenda Hari ini
+
+- [x]  Konfirmasi Bo Terkait
+- [x]  PSTB
+- [ ]  
+
+---
+
+Tanyakan yang tinggal klik ap (yang banyak data)
+laporan PO Proses ap nasional untuk ambil penyiapan wh
+focus untuk ngejar keterangan batal pesen ama tinggan klik ap
+langkah batal pesan diambil bo yang konfirmasinya lengkap terus batal pesan
+
+- nama seller itu kode ben
+- nomor nota itu nota awal
+- nilai nota itu netto
+- nama sr itunama sales
+- keterangan itu kategori
+- alasan pembatalan itu paling kanan
+- keterangan kosong suruh ngisi sendiri
+
+Mojokerto batal padahal udah disipakan barangnya tanyakan klo dibawah GI nanti barangnya dikembalikan ke GI
+
+Case Batal Pesan
+
+- cek wh nya sudah 100% atau belum, kalau sudah 100% wh dibatalkan itu ditanyakan kenapa? dipastikan!
+- case PTPN dia batal pesan disitu gada penyiapan WH jadi langsung eksekusi amann
+- Oiya untuk batal pesan itu dimintai surat
+
+Case Belum Klik AP
+
+- Coba cek keterangannya. kalau keterangannya ada masalah di oldist/tidak muncul di oldist dicek dulu
+- Kalau ternyata ada di oldist ditanyakan dan dikonfirmasi kapan sekiranya klik AP
