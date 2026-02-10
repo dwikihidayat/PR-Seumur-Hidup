@@ -1,0 +1,1 @@
+print("hari ini aku sadar kalau hanya mengecommit untuk txt bahasanya kan tidak terbaca")
