@@ -1,0 +1,1 @@
+print("aku sudah mengambil banyak resiko yang belum kuhitung kemungkinannyha, kalo aku gagal maaf")
